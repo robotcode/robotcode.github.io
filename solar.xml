@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Solar">
+  <!--	Based on the Solarized Light theme for Vim by Ethan Schoonover
+		http://ethanschoonover.com/solarized
+		Green is based on experimental colour in file solarized.vim located on Github
+		https://github.com/altercation/vim-colors-solarized/tree/master/colors
+		Public Domain, Robotcode, 2013 - 2014 -->
+  <style name="Text" foreground="#657B83" background="#FDF6E3"/>
+  <style name="Extra" foreground="#93A1A1" background="#EEE8D5"/>
+  <style name="Selection" foreground="#FFFFFF" background="#D33682"/>
+  <style name="CurrentLine" background="#EEE8D5"/>
+  <style name="IndentLine" foreground="#FDF6E3"/>
+  <style name="VisualWhitespace" foreground="#FFFFFF"/>
+  <style name="Keyword" foreground="#719E07"/>
+  <style name="DataType" foreground="#B58900" /> 
+  <style name="Decimal" foreground="#2AA198"/>
+  <style name="BaseN" foreground="#2AA198"/>
+  <style name="Float" foreground="#2AA198"/>
+  <style name="Char" foreground="#2AA198"/>
+  <style name="String" foreground="#2AA198"/>
+  <style name="Comment" foreground="#93A1A1" italic="TRUE"/>
+  <style name="Alert" foreground="#DC322F"/>
+  <style name="Error" foreground="#DC322F" bold="TRUE"/>
+  <style name="Function" foreground="#268BD2"/> 
+  <style name="RegionMarker" foreground="#FFFFFF"/>
+  <style name="Symbol" foreground="#657b83"/>       
+  <style name="BuiltinFunc" foreground="#719E07"/>
+  <style name="Predeclared" foreground="#2AA198"/>
+  <style name="FuncDecl" foreground="#268BD2"/>
+  <style name="Placeholder" foreground="#DC322F"/>
+  <style name="ToDo" foreground="#D33682" bold="TRUE"/>
+</style-scheme>
